@@ -1,0 +1,6 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+.rating-half.rating-lg input:not(.rating-hidden) {
+  width: 1rem;
+}
